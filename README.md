@@ -17,6 +17,7 @@ Make the virtual host, to run the site as a domain on the local machine like **i
 That's it :) you are good to go.
 
 Run the **imagecollage.dev** or **localhost.imagecollage.com** in your favorite browser as mine is chrome.
+
 ![enter image description here](collage.png)
 ## Componets
 
