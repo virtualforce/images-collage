@@ -18,7 +18,7 @@ That's it :) you are good to go.
 
 Run the **imagecollage.dev** or **localhost.imagecollage.com** in your favorite browser as mine is chrome.
 
-##Componets
+## Componets
 
 1. functions.php
 2. pics (folder)
@@ -26,7 +26,7 @@ Run the **imagecollage.dev** or **localhost.imagecollage.com** in your favorite 
 
 These 3 components are whole collage soul.
 
-##How it works
+## How it works
 ### 1- functions.php
 functions.php file contains all the functions do the following functionality
 
@@ -47,13 +47,13 @@ Here is list of functions
 9. getFileExtension($path)
 10. scanFolderAndAddTheImagesInDb()
 
-###2- pics (folder)
+### 2- pics (folder)
 In this folder all the pictures of collage, those will be posted on the master picture would be here.
 
-###3- master.jpg
+### 3- master.jpg
 This is the base of collage, all the pictures from **pics** folder would be paste on this and thus the way collage will be created.
 
-##Things should be in mind
+## Things should be in mind
 
 1. Pictures name in DB and in **pics** folder should be same
 2. In functions.php there are two constants named **X** and **Y**. These constants are responsible for height and width of the images on collage and also the number of images on collage. Increase the **X** and **Y** values will decrease the images on the collage and vice versa.  
